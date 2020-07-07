@@ -1,0 +1,13 @@
+C:\Users\pa1_1\Documents\GitHub\ex_ciutats\cs\bin\Debug\netcoreapp3.1\cs.exe
+C:\Users\pa1_1\Documents\GitHub\ex_ciutats\cs\bin\Debug\netcoreapp3.1\cs.deps.json
+C:\Users\pa1_1\Documents\GitHub\ex_ciutats\cs\bin\Debug\netcoreapp3.1\cs.runtimeconfig.json
+C:\Users\pa1_1\Documents\GitHub\ex_ciutats\cs\bin\Debug\netcoreapp3.1\cs.runtimeconfig.dev.json
+C:\Users\pa1_1\Documents\GitHub\ex_ciutats\cs\bin\Debug\netcoreapp3.1\cs.dll
+C:\Users\pa1_1\Documents\GitHub\ex_ciutats\cs\bin\Debug\netcoreapp3.1\cs.pdb
+C:\Users\pa1_1\Documents\GitHub\ex_ciutats\cs\obj\Debug\netcoreapp3.1\cs.csprojAssemblyReference.cache
+C:\Users\pa1_1\Documents\GitHub\ex_ciutats\cs\obj\Debug\netcoreapp3.1\cs.AssemblyInfoInputs.cache
+C:\Users\pa1_1\Documents\GitHub\ex_ciutats\cs\obj\Debug\netcoreapp3.1\cs.AssemblyInfo.cs
+C:\Users\pa1_1\Documents\GitHub\ex_ciutats\cs\obj\Debug\netcoreapp3.1\cs.csproj.CoreCompileInputs.cache
+C:\Users\pa1_1\Documents\GitHub\ex_ciutats\cs\obj\Debug\netcoreapp3.1\cs.dll
+C:\Users\pa1_1\Documents\GitHub\ex_ciutats\cs\obj\Debug\netcoreapp3.1\cs.pdb
+C:\Users\pa1_1\Documents\GitHub\ex_ciutats\cs\obj\Debug\netcoreapp3.1\cs.genruntimeconfig.cache
